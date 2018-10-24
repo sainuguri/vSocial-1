@@ -1,7 +1,5 @@
 //  changeColorOnClickDown.js
-// https://www.dropbox.com/s/nrf6p1p47zt7gxa/changeColorOnClickDown.js?dl=0
-// &
-// http://business.ozblog.me/scripts/changeColorOnClickDown.js
+// When attached to an object in High Fidelity, changes its color when it is clicked or picked up.
 
 (function(){ 
     var clicked = false;
