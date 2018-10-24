@@ -1,8 +1,11 @@
+// Created by Sai Nuguri
+// When run, creates an App on High Fidelity Tablet interface that opens the slides for a VR session available at the URL below
+
 (function() {
 	// Every great app starts with a great name (keep it short so that it can fit in the tablet button)
 	var APP_NAME = "vSocial";
 	// Link to your app's HTML file
-	var APP_URL = "http://zoo-keeper-structures-11848.netlify.com/";
+	var APP_URL = "https://orientation-day-slides.netlify.com/";
 	// Path to the icon art for your app
 	var APP_ICON = "http://zoo-keeper-structures-11848.netlify.com/logo.svg";
 
