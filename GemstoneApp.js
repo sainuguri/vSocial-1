@@ -6,6 +6,7 @@
 //
 //  Created by Sai Nuguri.
 //
+// Creates an app on High Fidelity tablet that allows user to create gemstones in the VR world
 
 
 (function() {
