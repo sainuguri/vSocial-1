@@ -1,8 +1,10 @@
+// Created by Sai Nuguri
+// Creates an app on High Fidelity tablet and opens the slides available at the URL below. 
 (function() {
 	// Every great app starts with a great name (keep it short so that it can fit in the tablet button)
 	var APP_NAME = "vSocial";
 	// Link to your app's HTML file
-	var APP_URL = "https://reverent-northcutt-705071.netlify.com/";
+	var APP_URL = "https://orientation-day-slides.netlify.com/";
 	// Path to the icon art for your app
 	var APP_ICON = "http://zoo-keeper-structures-11848.netlify.com/logo.svg";
 
