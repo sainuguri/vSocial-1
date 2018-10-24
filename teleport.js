@@ -3,6 +3,8 @@
 // Created by james b. pollack @imgntn on 7/2/2016
 // Copyright 2016 High Fidelity, Inc.
 //
+// Updated by Sai Nuguri to include teleport mode that cancels teleportation once inside a zone
+// 
 //  Creates a beam and target and then teleports you there.  Release when its close to you to cancel.
 //
 //  Distributed under the Apache License, Version 2.0.
