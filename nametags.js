@@ -7,6 +7,7 @@
 // Created by Triplelexx on 17/01/31
 // Copyright 2017 High Fidelity, Inc.
 //
+// Updated by Sai Nuguri to show the First name of user, not username 
 // Running the script creates a text entity that will hover over the user's head showing their display name.
 //
 // Distributed under the Apache License, Version 2.0.
