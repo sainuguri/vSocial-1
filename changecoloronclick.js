@@ -1,8 +1,6 @@
 //  changeColorOnClickDown.js
-// https://www.dropbox.com/s/nrf6p1p47zt7gxa/changeColorOnClickDown.js?dl=0
-// &
-// http://business.ozblog.me/scripts/changeColorOnClickDown.js
-
+// created by Sai Nuguri
+// Once attached to an entity (cube or sphere) in the VR world, changes the color of the entity when picked up or clicked on
 (function(){ 
     var clicked = false;
     this.clickDownOnEntity = function(entityID, mouseEvent) { 
