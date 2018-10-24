@@ -1,3 +1,6 @@
+// Created by Sai Nuguri
+//
+// When run, creates an App on High Fidelity tablet interface to lock an avatar to a specific position
 (function() {
 	// Every great app starts with a great name (keep it short so that it can fit in the tablet button)
 	var APP_NAME = "Pod";
