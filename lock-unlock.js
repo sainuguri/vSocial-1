@@ -1,3 +1,6 @@
+// Created by Sai Nuguri
+// Trial script to create an App on High Fidelity tablet interface to lock an avatar to a location.
+
 (function() { 
 // Every great app starts with a great name (keep it short so that it can fit in the tablet button)
 var APP_NAME = "Lock";   
@@ -33,7 +36,7 @@ function onWebEventReceived(event) {
         }
 
         	if (event.data  === "Lock") {
-		Script.update.connect(function(time,5m){	
+		Script.update.connect(function(deltatime){	
         		MyAvatar.position = { x: 94.6033, y: -238.705 ,z: -605.104 };
 		});
 		} else if (event.data  === "Unlock") {
